@@ -10,6 +10,7 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+firebase-admin-token.json
 
 # OS
 .DS_Store
@@ -21,6 +22,7 @@ lerna-debug.log*
 # IDEs and editors
 /.idea
 .project
+firebase-admin-token.json
 .classpath
 .c9/
 *.launch
